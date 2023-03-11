@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/1f76dd52-93cf-4d29-b5e0-323774f43c6d/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/paddydisease",
+    "appService.deploySubpath": "."
+}
